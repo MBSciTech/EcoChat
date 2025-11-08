@@ -16,5 +16,26 @@ Core Features
 ✅ Group creation & invites
 ✅ Message deletion/edit
 
-672286281775682
-irhF3lE7tJLvfegS86BwxAsci9s
+eco-chat/
+│
+├── backend/
+│   ├── server.js
+│   ├── socket.js
+│   ├── routes/
+│   ├── controllers/
+│   ├── models/
+│   ├── middleware/
+│   ├── uploads/
+│   └── package.json
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── contexts/
+│   │   ├── services/
+│   │   ├── App.js
+│   │   └── socket.js
+│   └── package.json
+│
+└── README.md
